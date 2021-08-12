@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: DesktopAgent
+  name: desktop-dell
 
 stages:
 - stage: BuildApp
